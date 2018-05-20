@@ -28,10 +28,6 @@
   justify-content: center;
 }
 
-.photography {
-  margin-left: 40px;
-}
-
 .graphicdesign {
   margin-left: 40px;
 }
@@ -65,6 +61,7 @@ text-decoration: none;
 a:active {
 color: #fff;
 text-decoration: none;
+font-weight: 800;
 }
 
 a:visited:hover {
@@ -89,7 +86,7 @@ a:visited:hover {
   color: white;
   font-family: "Open Sans", "Georgia", sans-serif;
   font-weight: 800;
-  font-size: 30px;
+  font-size: 3vw;
 }
 
 
@@ -102,7 +99,7 @@ a:visited:hover {
   color: white;
   font-family: "Open Sans", "Georgia", sans-serif;
   font-weight: 200;
-  font-size: 20px;
+  font-size: 2vw;
 }
 
 .header-container {
@@ -181,16 +178,17 @@ input[type=submit]:hover {
   margin-right: 100px;
   margin-top: 45px;
   line-height: 1.8;
+  font-size: 2vw;
 }
 
 #me h2 {
-font-size: 17px;
+font-size: 1.8vw;
 line-height: 1.8;
 }
 
 
 #me p {
-  font-size: 15px;
+  font-size: 1.7vw;
   line-height: 1.8;
 }
 
